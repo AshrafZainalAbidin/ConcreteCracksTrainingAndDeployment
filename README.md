@@ -17,9 +17,11 @@ The training model consists of
 </details>
 
 ## Model Performance
-
-![Tensorboard - epoch loss](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/0359bf9b-0669-4960-845d-fd64dd067f86)
-![Tensorboard - epoch accuracy](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/e313b4f3-84dd-4347-b802-9ab68d66aa81)
+### Model evaluation
 ![Model Performance](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/33a32199-ae9e-49e7-9a46-79f1fc8504d5)
+### Tensorboard - epoch loss
+![Tensorboard - epoch loss](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/0359bf9b-0669-4960-845d-fd64dd067f86)
+### Tensorboard - epoch accuracy
+![Tensorboard - epoch accuracy](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/e313b4f3-84dd-4347-b802-9ab68d66aa81)
 
 
