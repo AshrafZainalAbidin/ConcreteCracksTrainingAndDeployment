@@ -25,3 +25,6 @@ The training model consists of
 ![Tensorboard - epoch accuracy](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/e313b4f3-84dd-4347-b802-9ab68d66aa81)
 
 
+## Sample Testing
+![Sample](https://github.com/AshrafZainalAbidin/ConcreteCracksTrainingAndDeployment/assets/154945805/9a65bfdb-93a7-45e2-a0e2-57b4e948a466)
+
