@@ -7,11 +7,11 @@ In this project, we will be training a model to identify cracks in concrete from
 ## Model Architecture
 The training model consists of
 
-*Convolutional Neural Network (CNN).
+-Convolutional Neural Network (CNN).
 
-*Rectified Linear Unit (ReLU).
+-Rectified Linear Unit (ReLU).
 
-*MobileNetV2 for data normalization
+-MobileNetV2 for data normalization
 
 <details>
   <summary>Model Architecture Diagram:</summary>
